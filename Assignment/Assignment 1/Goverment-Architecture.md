@@ -29,6 +29,3 @@
   - Identify opportunities for change
   - Model your business goals and the capabilities and investments you need to deliver them
   - Design a future operating model that is technically and strategically aligned with all-of-government programmes and services.
-
-    deadline: 2021/11/26
-    assignment submitted
