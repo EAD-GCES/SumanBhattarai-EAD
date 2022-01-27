@@ -1,6 +1,6 @@
 # Indexing
 
-Indexing of Assignment and Practical of EAD.
+Index of Assignment and Practical of EAD.
 
 ## Assignment:
 
